@@ -1,1 +1,11 @@
-Aquí practicando Git con El guta 
+Aquí practicando Git con El guta
+
+int a,b;
+double suma;
+
+a = 1;
+b = 2;
+
+suma= a+b;
+
+system.out.println("Suma: " +suma);
